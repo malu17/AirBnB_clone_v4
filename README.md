@@ -1,3 +1,28 @@
+<h1 align="center">HolbertonBnB</h1>
+<h2 align="center">An AirBnB_clone_v4.</h2>
+
+<p align="center"><img src= "https://media.itsnicethat.com/original_images/563b97a87fa44cff9d001760.gif" width="600" height="400"/></p>
+
+## Description :house:
+
+HolbertonBnB is a complete RESTful web application, integrating file and
+database (MySQL) storage in a back-end API with front-end interfacing in a
+clone of AirBnB. The front-end is designed using HTML5/CSS3 and is served using
+Python Flask. The application is configured on a distributed system - two web
+servers and one load balancer - with Nginx and HAProxy.
+
+HolbertonBnB is still in active development, with complete functionality set to
+deploy in the coming month:
+
+* Complete integration of a RESTful API
+* Full configuration of website with domain name
+* Serving of dynamic content using JavaScript
+
+<p align="center">
+  <img src="https://github.com/hfsantiago/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
+	    alt="HolbertonBnB stack">
+</p>
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -22,7 +47,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "(https://github.com/malu17)/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -153,13 +178,17 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Tihitna Sisay - [Github](https://github.com/Tihitna-22)
+## Authors :black_nib:
 
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+* **tihitna sisay**- [GitHub](https://github.com/Tihitna-22/Tihitna-22/AirBnB_clone_v4)
+
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+
+april 2022
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Tihitna]|  [GitHub](https://github.com/Tihitna-22/Tihitna-22/AirBnB_clone_v4)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/JulianR_30.svg?style=social&label=Follow)](https://twitter.com/eliasfiseha1)
